@@ -23,4 +23,4 @@ AgroMind AI is an AI-based crop monitoring project designed to help farmers iden
 Under Development
 
 ## Developer
-Arthi R.
+Arthi R
